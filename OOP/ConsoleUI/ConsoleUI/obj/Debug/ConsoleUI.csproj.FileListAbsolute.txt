@@ -1,7 +1,0 @@
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
-C:\Users\Megumin\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
