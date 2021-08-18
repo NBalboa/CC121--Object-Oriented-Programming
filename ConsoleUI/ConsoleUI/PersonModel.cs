@@ -19,12 +19,22 @@ namespace ConsoleUI
             get { return $"{FirstName} {LastName}"; }
         }
 
+        private string _password;
+
+        public string Password
+        {
+            set { _password = value; }
+        }
+
+
+
+
         public int Age
         {
             get { return _age; }
             set
             {
-                if (value >= 0 || value < 126)
+                if (value >= 0 && value < 126)
                 {
                     _age = value;
                 }
@@ -46,10 +56,21 @@ namespace ConsoleUI
             set { _ssn = value; }
         }
 
+
+        public PersonModel(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+        }
+
         public PersonModel(string lastName)
         {
             LastName = lastName;
         }
 
+        public PersonModel()
+        {
+            //ToDo
+        }
     }
 }

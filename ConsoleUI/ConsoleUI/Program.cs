@@ -14,13 +14,13 @@ namespace ConsoleUI
 
             person.FirstName = "Nicko";
            // person.LastName = "Balboa";
-            person.Age = 12;
+            person.Age = 127;
             person.SSN = "123-45-6789";
             Console.WriteLine(person.SSN);
             Console.WriteLine(person.FullName);
-            Console.WriteLine();
+            Console.WriteLine(person.Age);
 
-            
+                
         }
     }
 }
